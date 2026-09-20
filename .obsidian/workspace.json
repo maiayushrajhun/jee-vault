@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "27f0285477facfd1",
+        "id": "0c34a20599d2fad0",
         "type": "tabs",
         "children": [
           {
-            "id": "bf305d3dcf7b09fb",
+            "id": "5ba4f1432dc93fd5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry Checklist.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Chemistry Checklist"
+              "title": "New tab"
             }
           }
         ]
@@ -198,15 +194,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10c475ea2374a48e",
+  "active": "5ba4f1432dc93fd5",
   "lastOpenFiles": [
-    "README.md",
+    "Mathematics Checklist.md",
     "Chemistry Checklist.md",
+    "Parts of plan.md",
+    "README.md",
+    "Section-Wise Division.md",
     "Untitled.base",
     "2026-09-20.md",
     "Physics Checklist..md",
-    "Mathematics Checklist.md",
-    "Parts of plan.md",
     "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
     "gemini-scribe/Prompts/example-expert.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
@@ -216,7 +213,6 @@
     "gemini-scribe/Background-Tasks",
     "gemini-scribe/Agent-Sessions",
     "gemini-scribe",
-    "Section-Wise Division.md",
     "Untitled.canvas",
     "Untitled Kanban.md",
     "gemini-scribe/AGENTS.md",
