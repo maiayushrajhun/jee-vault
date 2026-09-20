@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0c34a20599d2fad0",
+        "id": "afa1c57915d45c46",
         "type": "tabs",
         "children": [
           {
-            "id": "5ba4f1432dc93fd5",
+            "id": "fbdd2397aaea74fa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Physics Checklist..md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Physics Checklist."
             }
           }
         ]
@@ -189,12 +193,10 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "gemini-scribe:Gemini Scribe: Agent mode": false,
-      "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ba4f1432dc93fd5",
+  "active": "fbdd2397aaea74fa",
   "lastOpenFiles": [
     "Mathematics Checklist.md",
     "Chemistry Checklist.md",
