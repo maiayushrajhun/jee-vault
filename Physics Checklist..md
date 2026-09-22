@@ -14,8 +14,8 @@
 | Heat & Thermodynamics  <br>         |                |              |         |      |          |                    |
 | Simple Harmonic Motion  <br>        |                |              |         |      |          |                    |
 | Waves  <br>                         |                |              |         |      |          |                    |
-| Electrostatics  <br>                | Done           | Done         |         | Done |          | More than mid      |
-| Current Electricity  <br>           | Done           | Done         |         | Done |          | More than mid      |
+| Electrostatics  <br>                | Done           | Done         |         |      |          | More than mid      |
+| Current Electricity  <br>           | Done           | Done         |         |      |          | More than mid      |
 | Capacitor  <br>                     | Done           |              |         |      |          | "RC circuits left" |
 | Magnetic Effect of Current  <br>    | Done           | Done         |         |      |          | Mid                |
 | Magnetic Properties of Matter  <br> |                |              |         |      |          |                    |

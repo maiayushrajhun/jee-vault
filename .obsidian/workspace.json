@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "afa1c57915d45c46",
+        "id": "9c447d24c82550a3",
         "type": "tabs",
         "children": [
           {
-            "id": "fbdd2397aaea74fa",
+            "id": "a564509ee47c8d30",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics Checklist..md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Physics Checklist."
+              "title": "New tab"
             }
           }
         ]
@@ -196,16 +192,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fbdd2397aaea74fa",
+  "active": "a564509ee47c8d30",
   "lastOpenFiles": [
     "Mathematics Checklist.md",
-    "Chemistry Checklist.md",
     "Parts of plan.md",
-    "README.md",
     "Section-Wise Division.md",
+    "Physics Checklist..md",
+    "Chemistry Checklist.md",
+    "README.md",
     "Untitled.base",
     "2026-09-20.md",
-    "Physics Checklist..md",
     "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
     "gemini-scribe/Prompts/example-expert.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
