@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9c447d24c82550a3",
+        "id": "467baf6cfbcae52c",
         "type": "tabs",
         "children": [
           {
-            "id": "a564509ee47c8d30",
+            "id": "8490d3491b708fdb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -192,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a564509ee47c8d30",
+  "active": "8490d3491b708fdb",
   "lastOpenFiles": [
     "Mathematics Checklist.md",
     "Parts of plan.md",
