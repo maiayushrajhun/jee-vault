@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "42299731b3d64fa7",
+        "id": "6df8d023be9dfce0",
         "type": "tabs",
         "children": [
           {
-            "id": "97ea5542d7fae1bf",
+            "id": "e8cc0bf0c353939b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics Checklist.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Mathematics Checklist"
+              "title": "New tab"
             }
           }
         ]
@@ -196,13 +192,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97ea5542d7fae1bf",
+  "active": "e8cc0bf0c353939b",
   "lastOpenFiles": [
+    "Chemistry Checklist.md",
+    "Mathematics Checklist.md",
+    "Section-Wise Division.md",
     "Physics Checklist..md",
     "Parts of plan.md",
-    "Mathematics Checklist.md",
-    "Chemistry Checklist.md",
-    "Section-Wise Division.md",
     "README.md",
     "Untitled.base",
     "2026-09-20.md",
