@@ -5,10 +5,10 @@
 | Redox Reactions  <br>                         |                |              |                   |      |          |            |
 | Chemical Equilibrium                          | Done           | Done         |                   |      |          | Low        |
 | Ionic Equilibrium                             |                |              |                   |      |          |            |
-| Solutions  <br>                               | Done           | Done         |                   |      |          | Low        |
+| Solutions  <br>                               | Done           | Done         |                   |      | 1        | Okay       |
 | Thermodynamics  <br>                          | Done           |              |                   |      |          |            |
-| Electrochemistry  <br>                        | Done           | Done         |                   |      |          | Low        |
-| Chemical Kinetics                             | Done           | Done         |                   |      |          | Low        |
+| Electrochemistry  <br>                        | Done           | Done         |                   |      | 1        | Okay       |
+| Chemical Kinetics                             | Done           | Done         |                   |      | 1        | Okay       |
 | Nuclear Chemistry                             |                |              |                   |      |          |            |
 | Periodic Table & Periodicity                  | Done           |              |                   |      |          |            |
 | Chemical Bonding & Molecular Structure  <br>  | Done           |              |                   |      |          |            |
