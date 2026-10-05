@@ -11,10 +11,14 @@
             "id": "b453c3c0c61e0496",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "The 65 Day Plan.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "The 65 Day Plan"
             }
           }
         ]
@@ -194,11 +198,11 @@
   },
   "active": "b453c3c0c61e0496",
   "lastOpenFiles": [
+    "Section-Wise Division.md",
     "The 65 Day Plan.md",
+    "Chemistry Checklist.md",
     "Physics Checklist..md",
     "Mathematics Checklist.md",
-    "Section-Wise Division.md",
-    "Chemistry Checklist.md",
     "README.md",
     "Untitled.base",
     "2026-09-20.md",
