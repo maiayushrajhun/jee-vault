@@ -16,7 +16,7 @@
 | Inverse Trigonometric Functions          | Done           | Done         |         |      |          | Mid          |
 | Circle                                   |                |              |         |      |          |              |
 | Ellipse                                  |                |              |         |      |          |              |
-| Straight Lines                           |                |              |         |      |          |              |
+| Straight Lines                           | Done           | Done         |         |      |          |              |
 | Parabola                                 |                |              |         |      |          |              |
 | Hyperbola                                |                |              |         |      |          |              |
 | Functions                                | Done           | Done         |         |      |          | Low          |

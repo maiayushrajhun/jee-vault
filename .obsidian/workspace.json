@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "73ad0850e0dc9ed8",
+        "id": "452f3f6c7d4ba68b",
         "type": "tabs",
         "children": [
           {
-            "id": "cfb093a202c97762",
+            "id": "67fec76b5b3de7a0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The 65 Day Plan.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "The 65 Day Plan"
-            }
-          },
-          {
-            "id": "8ed46a4a91a41bb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lookism.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "lookism"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,13 +192,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ed46a4a91a41bb7",
+  "active": "67fec76b5b3de7a0",
   "lastOpenFiles": [
     "The 65 Day Plan.md",
-    "lookism.md",
     "Section-Wise Division.md",
-    "Physics Checklist..md",
     "Mathematics Checklist.md",
+    "Physics Checklist..md",
+    "lookism.md",
     "Chemistry Checklist.md",
     "README.md",
     "Untitled.base",
