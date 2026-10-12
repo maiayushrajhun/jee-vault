@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "452f3f6c7d4ba68b",
+        "id": "1d4b5230b536f0a4",
         "type": "tabs",
         "children": [
           {
-            "id": "67fec76b5b3de7a0",
+            "id": "6557f45dd5c2dd36",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -192,14 +192,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67fec76b5b3de7a0",
+  "active": "6557f45dd5c2dd36",
   "lastOpenFiles": [
-    "The 65 Day Plan.md",
-    "Section-Wise Division.md",
-    "Mathematics Checklist.md",
-    "Physics Checklist..md",
-    "lookism.md",
     "Chemistry Checklist.md",
+    "Section-Wise Division.md",
+    "Physics Checklist..md",
+    "Mathematics Checklist.md",
+    "The 65 Day Plan.md",
+    "lookism.md",
     "README.md",
     "Untitled.base",
     "2026-09-20.md",
