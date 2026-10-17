@@ -16,7 +16,7 @@
 | d and f Block Elements  <br>                  |                |              |         |      |          |
 | Coordination Compounds  <br>                  |                |              |         |      |          |
 | Salt Analysis  <br>                           |                |              |         |      |          |
-| Basics of Organic Chemistry  <br>             | Done           |              |         | -    |          |
+| Basics of Organic Chemistry  <br>             | Done           | Done         |         | Done |          |
 | Hydrocarbons  <br>                            | Done           |              |         | -    |          |
 | Haloalkanes and Haloarenes  <br>              | Done           |              |         | -    |          |
 | Alcohols, Phenols and Ethers  <br>            |                |              |         |      |          |

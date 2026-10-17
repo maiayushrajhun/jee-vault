@@ -14,7 +14,7 @@
 | Logarithm                           | Done           | Done    |      |          |
 | Trigonometric Ratio and Identities  |                |         |      |          |
 | Inverse Trigonometric Functions     | Done           | Done    |      |          |
-| Straight Lines                      | Done           | Done    | -    |          |
+| Straight Lines                      | Done           | Done    | Done |          |
 | Circle                              | Done           | Done    | -    |          |
 | Ellipse                             |                |         |      |          |
 | Parabola                            |                |         |      |          |

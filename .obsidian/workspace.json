@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3d260849064d9ba2",
+        "id": "b781d0f4becec1e3",
         "type": "tabs",
         "children": [
           {
-            "id": "9a4b32fb387e4859",
+            "id": "5e983a553dcab0a3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Physics Checklist..md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Physics Checklist."
             }
           }
         ]
@@ -192,12 +196,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a4b32fb387e4859",
+  "active": "5e983a553dcab0a3",
   "lastOpenFiles": [
-    "Chemistry Checklist.md",
     "Mathematics Checklist.md",
-    "Section-Wise Division.md",
+    "Chemistry Checklist.md",
     "Physics Checklist..md",
+    "Section-Wise Division.md",
     "The 65 Day Plan.md",
     "lookism.md",
     "README.md",
